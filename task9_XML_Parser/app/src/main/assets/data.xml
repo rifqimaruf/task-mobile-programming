@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <item>
+        <name>Laptop ASUS</name>
+        <price>12.000.000</price>
+        <description>Laptop gaming dengan spesifikasi tinggi</description>
+    </item>
+    <item>
+        <name>Smartphone Samsung</name>
+        <price>5.500.000</price>
+        <description>Smartphone dengan kamera berkualitas tinggi</description>
+    </item>
+    <item>
+        <name>Headphone Sony</name>
+        <price>1.200.000</price>
+        <description>Headphone wireless dengan noise cancellation</description>
+    </item>
+    <item>
+        <name>Smart TV LG</name>
+        <price>8.750.000</price>
+        <description>Smart TV 4K dengan layar 55 inch</description>
+    </item>
+    <item>
+        <name>Printer Canon</name>
+        <price>2.300.000</price>
+        <description>Printer multifungsi dengan scanner</description>
+    </item>
+</catalog>
