@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="name_hint">Nama</string>
+    <string name="email_hint">Email</string>
+    <string name="cancel_button">Batal</string>
+    <string name="save_button">Simpan</string>
+    <string name="add_user_button">Tambah User</string>
+</resources>
